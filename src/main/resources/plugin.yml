@@ -1,0 +1,10 @@
+name: GMTestVertragsSystem
+version: 1.0
+main: de.EinWildesCJay.Main
+author: EinWildesCJay
+
+commands:
+  vertrag:
+
+depend:
+  - ProtocolLib
